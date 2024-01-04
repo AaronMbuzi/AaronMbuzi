@@ -12,7 +12,7 @@ A computer science student at the University of Zambia, passionate about using t
 - **Familiar with:**
   - JavaScript
   - HTML/CSS
-  - Dart
+  - Flutter
 - **Experienced in:**
   - Bootstrap
   - Git
