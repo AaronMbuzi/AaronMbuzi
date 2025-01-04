@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Aaron Mbuzi  
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
 ### 🌍 Zambian Tech Enthusiast | Innovator | Tech Advocate  
 
