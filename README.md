@@ -48,7 +48,7 @@ I'm passionate about leveraging technology to solve real-world problems, drive i
 
 ## 🤝 **Let’s Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/aaron-mbuzi-284a49209/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/aaron-mbuzi-284a49209/))  
 
 
 Feel free to reach out to collaborate on a project or just say hi!  
